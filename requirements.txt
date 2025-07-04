@@ -1,0 +1,17 @@
+bertopic>=0.17.0
+sentence-transformers>=4.0.0
+gensim>=4.0.0
+nltk>=3.8.1
+umap-learn>=0.5.0
+hdbscan>=0.8.29
+pandas>=1.1.5
+seaborn>=0.12.0
+matplotlib>=3.4
+scikit-learn>=1.0
+torch>=1.11.0
+scipy>=1.6.0
+numpy>=1.20.0
+tensorflow>=2.11.0
+tensorflow-text>=2.11.0
+tensorflow-hub
+tf-keras
